@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshraoka
 - 👀 I’m interested in web development and AI/ML
 - 🌱 I’m currently learning React and tenserflow
-- 💞️ I’m looking to collaborate on React projects
+- 💞️ I’m looking to collaborate on React.js and tenserflow.js projects 
 
 
 <!---
